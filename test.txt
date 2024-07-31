@@ -1,1 +1,0 @@
-[{"title":"teat","message":"hello world ","androidId":"00900b51cc8a2a90"},{"title":"title","message":"hello world 1","androidId":"00900b51cc8a2a90"},{"title":"title","message":"hello world 1","androidId":"00900b51cc8a2a90"},{"title":"alireza","message":"سلام بچها خوبید؟","androidId":"00900b51cc8a2a90"}]
